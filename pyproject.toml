@@ -10,6 +10,9 @@ python = "^3.10,<3.12"
 numpy = "^1.24.2"
 scipy = "^1.10.1"
 pandas = "^1.5.3"
+pyqt5 = "<=5.14"
+qtpy = "<=1.9"
+pyqtgraph = "^0.13.1"
 
 
 [build-system]
