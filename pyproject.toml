@@ -13,6 +13,7 @@ pandas = "^1.5.3"
 pyqt5 = "<=5.14"
 qtpy = "<=1.9"
 pyqtgraph = "^0.13.1"
+pyyaml = "^6.0"
 
 
 [build-system]
