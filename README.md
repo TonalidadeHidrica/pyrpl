@@ -86,3 +86,8 @@ Compilation should take between 10 and 30 minutes, depending on your machine. If
 
 ## License
 Please read our license file [LICENSE](https://github.com/lneuhaus/pyrpl/blob/master/LICENSE) for more information. 
+
+## Notes on poetry
+- ipykeernel, jupyter-client, nbconvert: used only for tests?  Skipping for now
+- futures, mock: skipping, seems only used for python 2
+- pandoc, sphinx, sphinx_bootstrap_theme: skipping, seems only used for genearating docs
